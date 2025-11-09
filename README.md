@@ -13,3 +13,4 @@ This is a mini LinkedIn clone built as a professional portfolio project for Rao 
 ## Tech Stack
 
 - HTML / CSS / JavaScript
+hy im tring to merger file S
